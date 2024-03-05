@@ -1,9 +1,9 @@
 ---
 title: Mautic Formulare
-date: 
-categories: [Formulare]
+categories: [formulare]
 tags: [formulare,forms] #tags should always be lowercase
 ---
+
 ## Formular
 
 ### Cum creez un formular legat de un segment?
