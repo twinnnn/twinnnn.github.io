@@ -1,0 +1,78 @@
+---
+title: Mautic - Termeni folosiţi
+date: 
+categories: [Termeni]
+tags: [termeni] #tags should always be lowercase
+---
+# Termeni folosiţi
+În alte _platforme de marketing prin email_ aceleaşi funcţii pot avea (şi chiar au) denumiri diferite.
+
+Ba mai nasol, am auzit că la a trimite un Newsletter (adică a trimite un email la o listă de contacte) se vorbeşte în unele cercuri de _a trimite o **campanie**_; numele **campanie** în Mautic este folosit pentru automatizări, adică acolo unde putem specifica acţiuni şi condiţii.
+
+În această documentaţie mă voi ghida după denumirile folosite în Mautic.
+
+## Duplicare / clonare
+În Mautic se foloseşte **clonare**. Poţi clona segmente, formulare, campanii, emailuri...
+
+Pe engleză este **Clone**.
+
+## Contacte
+Nu-mi este cunoscut să se numească altfel aceste elemente.
+
+Vorbind în termeni tehnici, un contact este de fapt o mulţime de valori salvate la un loc:
+* prenumele şi numele de familie
+* adresa de email
+* numărul de telefon
+* şi alte valori
+
+Un contact are de asemenea o istorie a acţiunilor executate.
+
+## Segmente / Liste
+În Mautic se vorbeşte de **segmente** şi nu vedem nicăieri denumirea de _liste_.
+
+Pe engleză este **Segments**.
+
+Termenul are logică considerând termenul de **segmentare** folosit în marketing.
+
+### Segmente statice
+Contactele sunt adăugate manual într-un astfel de segment.
+
+Pot fi adăugate de formulare, campanii, după un import.
+
+### Segmente dinamice
+Contactele sunt adăugate automat de filtrul definit în segment.
+
+### Segmente cu filtru
+Sunt segmentele dinamice.
+
+## Formulare
+Sunt zona de pe pagină în care putem scrie adresa de email şi are şi butonul de înscriere.
+
+Pe engleză este **Forms**.
+
+### Formulare independente
+
+
+### Formulare 
+
+
+
+## Campanii / Automatizări
+În Mautic se vorbeşte de **campanii** şi termentul de _automatizări_ nu este folosit.
+
+Pe engleză este **Campaigns**.
+
+## Emailuri
+Pe engleză este **Emails**.
+
+### Emailuri trimise de Campanii
+
+
+
+
+
+
+
+
+
+

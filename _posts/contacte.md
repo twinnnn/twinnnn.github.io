@@ -1,0 +1,58 @@
+---
+title: Mautic Contacte
+date: 
+categories: [Contacte]
+tags: [contacte,contacts] #tags should always be lowercase
+---
+## Contacte
+
+### Cum import contacte?
+Necesar: un fişier .csv cu contactele.
+
+
+### Cum adaug un contact - modul rapid?
+
+=> vezi si Capcana.
+
+### Cum adaug un contact?
+
+=> vezi si Capcana.
+
+### Cum adaug un contact la o listă?
+
+### Cum adaug mai multe contacte la o listă?
+
+### Cum adaug foarte multe contacte la o listă?
+
+### Cum adaug un contact într-o campanie?
+
+### Cum adaug mai multe contacte la o campanie?
+
+### Cum adaug foarte multe contacte la o campanie?
+
+### Cum caut un contact după adresa de email?
+
+### Cum verific dacă un contact a primit un email?
+
+### Cum verific în ce liste este un contact?
+
+### Cum verific în ce campanii este un contact?
+
+### Cum export contactele?
+
+### Capcana: Contacte cu aceeasi adresa de email!
+
+Se aplica atunci cand: adaugam manual un contact.
+
+Contactele adaugate prin formulare nu se vor duplica.
+Manual insa putem sa creem mai multe contacte cu aceeasi adresa de email. Mautic ne va spune asta, dar ne va lasa totusi sa cream contactul.
+Evita sa faci asta! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
+
+Ce s-a intamplat in cazul meu concret, in care erau 2 contacte cu aceeasi adresa de email:
+* functia de actualizare a segmentelor pentru segmentul cu un anumit filtru a intrat intr-o executie infinita
+* asta a insemnat ca alte actiuni nu se mai executau (procesarea campaniilor, trimiterea emailurilor...)
+Rezolvare: am sters unul din contacte si functia s-a executat cu succes. Nu a fost nevoie sa fac altceva.
+
+Inca de adaugat: Cum descoperi daca ai deja contacte cu aceeasi adresa de email?
+
+
