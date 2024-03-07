@@ -1,45 +1,13 @@
 ---
 icon: fas fa-user
-title: Mautic Contacte
+title: Mautic: Capcane la prelucrarea contactelor
 categories: [Contacte]
-tags: [contacte,contacts] #tags should always be lowercase
+tags: [contacte,contacts,capcane,inwork,novideo]
 ---
 
-## Contacte
+### <i class='fas fa-user'></i> Capcana: Contacte cu aceeaşi adresă de email!
 
-### Cum adaug un contact - modul rapid?
-
-=> vezi si Capcana.
-
-### Cum adaug un contact?
-
-=> vezi si Capcana.
-
-### Cum adaug un contact la o listă?
-
-### Cum adaug mai multe contacte la o listă?
-
-### Cum adaug foarte multe contacte la o listă?
-
-### Cum adaug un contact într-o campanie?
-
-### Cum adaug mai multe contacte la o campanie?
-
-### Cum adaug foarte multe contacte la o campanie?
-
-### Cum caut un contact după adresa de email?
-
-### Cum verific dacă un contact a primit un email?
-
-### Cum verific în ce liste este un contact?
-
-### Cum verific în ce campanii este un contact?
-
-### Cum export contactele?
-
-### Capcana: Contacte cu aceeasi adresa de email!
-
-Se aplică atunci când: adăugăm manual un contact.
+Se aplică atunci când: *adăugăm manual un contact*.
 
 Contactele adăugate prin formulare nu se vor duplica. Manual însă putem să creem mai multe contacte cu aceeaşi adresă de email. Mautic ne va spune asta, dar ne va lăsa totuşi să creăm contactul.
 
@@ -50,6 +18,11 @@ Ce s-a întâmplat în cazul meu concret, în care erau 2 contacte cu aceeaşi a
 * funcţia de actualizare a segmentelor pentru segmentul cu un anumit filtru a intrat într-o execuţie infinită
 * asta a însemnat că alte acţiuni nu se mai executau (procesarea campaniilor, trimiterea emailurilor...)
 Rezolvare: am şters unul din contacte şi funcţia s-a executat cu succes. Nu a fost nevoie să fac altceva.
+
+[//]: # (Comming soon video)
+
+{% include embed/youtube.html id='LMlCN6_vUvs' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
 
 Incă de adăugat: Cum descoperi dacă ai deja contacte cu aceeaşi adresă de email?
 
