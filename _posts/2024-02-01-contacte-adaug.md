@@ -27,4 +27,4 @@ tags: [contacte,contacts,adaug,nou,inwork,novideo]
 
 ### Note de subsol
 
-[^notasubsol]: [vezi aici](/posts/contacte-capcane/)
+[^notasubsol]: [vezi aici](/posts/contacte-capcane)
