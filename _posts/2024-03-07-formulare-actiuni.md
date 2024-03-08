@@ -5,13 +5,7 @@ categories: [formulare]
 tags: [formulare,forms,actiuni,inwork,novideo]
 ---
 
-> Pentru ca roboţii să fie filtraţi la completarea acestor formulare, poate fi folosit Captcha.
-> Asta va pune încă o piedică abonaţilor.
-{: .prompt-info }
-
-> Este o metodă de filtrare a roboţilor fără a pune o piedică extra abonaţilor.
-> Vezi [vezi aici]({% post_url 2024-03-07-formulare-roboti %}).
-{: .prompt-tip }
+Nu folosi Captcha! [Există o metodă mai eficientă.]({% post_url 2024-03-07-formulare-roboti %}).
 
 ### <i class='fas fa-brands fa-wpforms'></i> Cum să primesc un email când cineva completează un formular?
 

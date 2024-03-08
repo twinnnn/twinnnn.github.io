@@ -9,9 +9,9 @@ tags: [contacte,contacts,capcane,inwork,novideo]
 
 Se aplică atunci când: *adăugăm manual un contact*.
 
-Contactele adăugate prin formulare nu se vor duplica. Manual însă putem să creem mai multe contacte cu aceeaşi adresă de email. Mautic ne va spune asta, dar ne va lăsa totuşi să creăm contactul.
+Contactele adăugate prin formulare nu se vor duplica. Manual însă putem să creăm mai multe contacte cu aceeaşi adresă de email. Mautic ne va atenţiona de acest lucru, dar ne va lăsa totuşi să creăm contactul.
 
-> Evită să faci adaugi încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
+> Evită să adaugi încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
 {: .prompt-tip }
 
 Ce s-a întâmplat în cazul meu concret, în care erau 2 contacte cu aceeaşi adresă de email:
@@ -24,6 +24,15 @@ Rezolvare: am şters unul din contacte şi funcţia s-a executat cu succes. Nu a
 {% include embed/youtube.html id='LMlCN6_vUvs' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
 
-Incă de adăugat: Cum descoperi dacă ai deja contacte cu aceeaşi adresă de email?
+### <i class='fas fa-user'></i> Cum descopăr dacă sunt deja contacte cu aceeaşi adresă de email?
+Folosind mysql:
 
+```sql
+SELECT email, COUNT(email) 
+FROM leads 
+WHERE email IS NOT NULL AND email != '' 
+GROUP BY email 
+HAVING COUNT(email) > 1;
+```
 
+[Mautic 5 vine cu o comandă rapidă pentru deduplicare](https://forum.mautic.org/t/how-did-happened-duplicate-contact/24575/30)
