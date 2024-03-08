@@ -1,7 +1,7 @@
 ---
 title: Mautic Formulare
 categories: [formulare]
-tags: [formulare,forms] #tags should always be lowercase
+tags: [formulare,forms]
 ---
 
 ## Formular

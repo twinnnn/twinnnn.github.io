@@ -1,7 +1,7 @@
 ---
 icon: fas fa-user
-title: Mautic: Adaug contacte în campanie
-categories: [Contacte]
+title: Mautic Adaug contacte în campanie
+categories: [contacte]
 tags: [contacte,contacts,adaug,campanii,inwork,novideo]
 ---
 

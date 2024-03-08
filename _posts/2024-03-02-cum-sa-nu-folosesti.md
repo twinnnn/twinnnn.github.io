@@ -1,7 +1,7 @@
 ---
 title: Mautic - Cum să nu foloseşti
 categories: [cum]
-tags: [indicii,cum] #tags should always be lowercase
+tags: [indicii,cum]
 ---
 
 ## Cum sa nu foloseşti

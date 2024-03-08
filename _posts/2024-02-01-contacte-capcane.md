@@ -1,7 +1,7 @@
 ---
 icon: fas fa-user
-title: Mautic: Capcane la prelucrarea contactelor
-categories: [Contacte]
+title: Mautic Capcane la prelucrarea contactelor
+categories: [contacte]
 tags: [contacte,contacts,capcane,inwork,novideo]
 ---
 

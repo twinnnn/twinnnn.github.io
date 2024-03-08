@@ -1,7 +1,7 @@
 ---
 icon: fas fa-user
-title: Mautic: Adaug manual un nou contact
-categories: [Contacte]
+title: Mautic Adaug manual un nou contact
+categories: [contacte]
 tags: [contacte,contacts,adaug,nou,inwork,novideo]
 ---
 

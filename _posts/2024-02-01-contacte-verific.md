@@ -1,7 +1,7 @@
 ---
 icon: fas fa-user
-title: Mautic: Verific istoricul unui contact
-categories: [Contacte]
+title: Mautic Verific istoricul unui contact
+categories: [contacte]
 tags: [contacte,contacts,verific,istoric,istorie,inwork,novideo]
 ---
 

@@ -1,7 +1,7 @@
 ---
 icon: fas fa-user
-title: Mautic: Import şi export de contacte
-categories: [Contacte]
+title: Mautic Import şi export de contacte
+categories: [contacte]
 tags: [contacte,contacts,import,export,csv,inwork,novideo]
 redirect_from: "/2024-02-01-contacte-export/"
 ---
