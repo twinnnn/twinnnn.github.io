@@ -1,10 +1,9 @@
 ---
 icon: fas fa-user
-title: Mautic Verific istoricul unui contact
+title: Verific istoricul unui contact
 categories: [contacte]
 tags: [contacte,contacts,verific,istoric,istorie,inwork,novideo]
 ---
-
 
 ### <i class='fas fa-user'></i> Cum verific dacă un contact a primit un email?
 

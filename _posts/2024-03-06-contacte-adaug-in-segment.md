@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-title: Mautic Adaug contacte în segment
+title: Adaug contacte în segment
 categories: [contacte]
 tags: [contacte,contacts,adaug,segmente,inwork,novideo]
 ---

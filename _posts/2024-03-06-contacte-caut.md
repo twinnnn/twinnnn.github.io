@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-title: Mautic Caut contacte
+title: Caut contacte
 categories: [contacte]
 tags: [contacte,contacts,caut,inwork,novideo]
 ---
